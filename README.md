@@ -68,20 +68,14 @@ This helps visually understand model performance.
 
 ## 🚀 How To Run
 **Step 1: Clone Repository**
-```bash
-git clone <your-repository-link>
-cd <repository-folder>
-```
 
 **Step 2: Install Dependencies**
-```bash
+
 pip install pandas numpy scikit-learn matplotlib
-```
+
 
 **Step 3: Run Notebook**
-```bash
-jupyter notebook
-```
+
 Open the notebook file and run all cells.
 
 ## 📁 Project Structure
